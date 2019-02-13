@@ -1,2 +1,2 @@
 # twitter_search
-Module to logoin and search twitter for a particular handle
+Module to login and search twitter for a particular handle
